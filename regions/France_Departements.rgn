@@ -1,0 +1,96 @@
+01 Ain Bourg-en-Bresse 5762 652432 -39 -71 -69 -38 -73 -74
+02 Aisne Laon 7362 531345 -59 -80 -60 -77 -51 -08
+03 Allier Moulins 7340 335975 -18 -23 -63 -42 -71 -58
+04 Alpes-de-Haute-Provence Digne-les-Bains 6925 164308 -05 -26 -84 -83 -06
+05 Hautes-Alpes Gap 5549 141220 -73 -38 -26 -04
+06 Alpes-Maritimes Nice 4299 1094283 -04 -83 -201
+07 Ardeche Privas 5529 328278 -42 -43 -48 -30 -84 -26 -38
+08 Ardennes Charleville-Mezieres 5229 270582 -02 -51 -55
+09 Ariege Foix 4890 153287 -66 -11 -31
+10 Aube Troyes 6004 310242 -51 -77 -89 -21 -52
+11 Aude Carcassonne 6139 374070 -34 -81 -31 -09 -66
+12 Aveyron Rodez 8735 279595 -15 -46 -82 -81 -34 -30 -48
+13 Bouches-du-Rhone Marseille 5087 2043110 -83 -84 -30
+14 Calvados Caen 5535 694905 -50 -61 -27
+15 Cantal Aurillac 5726 144692 -63 -19 -46 -12 -48 -43
+16 Charente Angouleme 5956 352015 -86 -79 -17 -24 -87
+17 Charente-Maritime La-Rochelle 6864 651358 -33 -24 -16 -79 -85
+18 Cher Bourges 7235 302306 -45 -41 -36 -23 -03 -58
+19 Correze Tulle 5857 240073 -23 -87 -24 -46 -15 -63
+-201 Haute-Corse Bastia 4666 181933 -202 -06 -83
+-202 Corse-du-Sud Ajaccio 4014 158507 -201 -34
+21 Cote-d-Or Dijon 8763 534124 -10 -89 -58 -71 -39 -70 -52
+22 Cotes-d-Armor Saint-Brieuc 6878 600582 -29 -56 -35
+23 Creuse Gueret 5565 116617 -18 -36 -87 -19 -63 -03
+24 Dordogne Perigueux 9060 413223 -16 -17 -33 -47 -46 -19 -87
+25 Doubs Besancon 5233 543974 -90 -70 -39
+26 Drome Valence 6530 516762 -38 -07 -84 -04 -05
+27 Eure Evreux 6040 599507 -14 -61 -28 -78 -95 -60 -76
+28 Eure-et-Loir Chartres 5880 431575 -27 -61 -72 -41 -45 -91 -78
+29 Finistere Quimper 6733 915090 -56 -22
+30 Gard Nimes 5853 748437 -13 -84 -07 -48 -12 -34
+31 Haute-Garonne Toulouse 6309 1400039 -09 -11 -81 -82 -32 -65
+32 Gers Auch 6257 191377 -47 -40 -64 -65 -31 -82
+33 Gironde Bordeaux 9976 1623749 -40 -47 -24 -17
+34 Herault Montpellier 6101 1175623 -30 -12 -81 -11 -202
+35 Ille-et-Vilaine Rennes 6775 1079498 -22 -56 -44 -49 -53 -50
+36 Indre Chateauroux 6791 219316 -41 -37 -86 -87 -23 -18
+37 Indre-et-Loire Tours 6127 610079 -72 -49 -86 -36 -41
+38 Isere Grenoble 7431 1271166 -01 -69 -42 -07 -26 -05 -73
+39 Jura Lons-le-Saunier 4999 259199 -25 -70 -21 -71 -01
+40 Landes Mont-de-Marsan 9243 413690 -64 -32 -47 -33
+41 Loir-et-Cher Blois 6343 329470 -28 -72 -37 -36 -18 -45
+42 Loire Saint-Etienne 4781 765634 -03 -63 -43 -07 -38 -69 -71
+43 Haute-Loire Le-Puy-en-Velay 4977 227570 -63 -15 -48 -07 -42
+44 Loire-Atlantique Nantes 6880 1429272 -85 -49 -35 -56
+45 Loiret Orleans 6775 680434 -91 -28 -41 -18 -58 -89 -77
+46 Lot Cahors 5217 174094 -19 -24 -47 -82 -12 -15
+47 Lot-et-Garonne Agen 5361 331271 -24 -33 -40 -32 -82 -46
+48 Lozere Mende 5167 76604 -43 -15 -12 -30 -07
+49 Maine-et-Loire Angers 7107 818273 -53 -35 -44 -85 -79 -86 -37 -72
+50 Manche Saint-Lo 5938 495045 -35 -53 -61 -14
+51 Marne Chalons-en-Champagne 8169 566855 -08 -02 -77 -10 -52 -55
+52 Haute-Marne Chaumont 6211 172512 -55 -51 -10 -21 -70 -88
+53 Mayenne Laval 5175 307062 -50 -35 -49 -72 -61
+54 Meurthe-et-Moselle Nancy 5246 733760 -55 -88 -67 -57
+55 Meuse Bar-le-Duc 6211 184083 -08 -51 -52 -88 -54
+56 Morbihan Vannes 6823 759684 -44 -35 -22 -29
+57 Moselle Metz 6216 1046543 -54 -67
+58 Nievre Nevers 6817 204452 -89 -45 -18 -03 -71 -21
+59 Nord Lille 5743 2608346 -62 -80 -02
+60 Oise Beauvais 5860 829419 -80 -76 -27 -95 -77 -02
+61 Orne Alencon 6103 279942 -14 -50 -53 -72 -28 -27
+62 Pas-de-Calais Arras 6671 1465278 -80 -59
+63 Puy-de-Dome Clermont-Ferrand 7970 662152 -03 -23 -19 -15 -43 -42
+64 Pyrenees-Atlantique Pau 7645 682621 -65 -32 -40
+65 Hautes-Pyrenees Tarbes 4464 229567 -31 -32 -64
+66 Pyrenees-Orientales Perpignan 4116 479979 -11 -09
+67 Bas-Rhin Strasbourg 4755 1140057 -57 -54 -88 -68
+68 Haut-Rhin Colmar 3525 767086 -67 -88 -90
+69 Rhone Lyon 2715 464176 -71 -42 -38 -01
+70 Haute-Saone Vesoul 5360 235313 -88 -52 -21 -39 -25 -90
+71 Saone-et-Loire Macon 8575 551493 -21 -58 -03 -42 -69 -01 -39
+72 Sarthe Le-Mans 6206 566412 -61 -53 -49 -37 -41 -28
+73 Savoie Chambery 6028 436434 -74 -01 -38 -05
+74 Haute-Savoie Annecy 4388 826094 -01 -73
+75 Paris Paris 105 10858852 -92 -94 -93
+76 Seine-Maritime Rouen 6278 1255633 -27 -60 -80
+77 Seine-et-Marne Melun 5915 1421197 -60 -95 -93 -94 -91 -45 -89 -10 -51 -02
+78 Yvelines Versailles 2284 1448207 -95 -27 -28 -91 -92
+79 Deux-Sevres Niort 5999 374878 -49 -85 -17 -16 -86
+80 Somme Amiens 6170 570559 -76 -60 -02 -59 -62
+81 Tarn Albi 5758 389844 -82 -31 -11 -34 -12
+82 Tarn-et-Garonne Montauban 3717 260669 -46 -47 -32 -31 -81 -12
+83 Var Toulon 5973 1076711 -06 -04 -84 -13 -201
+84 Vaucluse Avignon 3520 561469 -26 -07 -30 -13 -83 -04
+85 Vendee La-Roche-sur-Yon 6720 685442 -17 -79 -49 -44
+86 Vienne Poitiers 6990 438435 -49 -79 -16 -87 -36 -37
+87 Haute-Vienne Limoges 5520 372359 -86 -16 -24 -19 -23 -36
+88 Vosges Saint-Die 5874 364499 -54 -55 -52 -70 -90 -68 -67
+89 Yonne Auxerre 7427 335707 -77 -45 -58 -21 -10
+90 Territoire-de-Belfort Belfort 609 141318 -68 -88 -70 -25
+91 Essonne Evry-Courcouronnes 1804 1301659 -94 -92 -78 -28 -45 -77
+92 Hauts-de-Seine Nanterre 176 1624357 -95 -78 -91 -94 -75 -93
+93 Seine-Saint-Denis Bobigny 236 1644903 -95 -92 -75 -94 -77
+94 Val-de-Marne Creteil 245 1407124 -93 -75 -92 -91 -77
+95 Val-d-Oise Pontoise 1246 1249674 -60 -27 -78 -92 -93 -77
